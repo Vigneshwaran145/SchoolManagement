@@ -4,7 +4,7 @@
 Install composer..
 
 Setup the database and migrate tables into the database using the following command
-php artisan migrate
+"php artisan migrate"
 
 Admin can sign up by registering.. After admin registration just remove registration page...
 
